@@ -1,5 +1,4 @@
-def starts_with_a_vowel?(word)
-  /[aeiou]/
+def starts_with_a_vowel?(word)/[aeiou]/
   return = true
 end
 
