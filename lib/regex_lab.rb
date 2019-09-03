@@ -1,4 +1,4 @@
-def starts_with_a_vowel?(word).to be(true)
+def starts_with_a_vowel?([aeiou]).to be(true)
   
 end
 
